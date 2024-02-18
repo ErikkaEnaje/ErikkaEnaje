@@ -20,9 +20,10 @@ SY: 2021 - Present</th>
 </tr>
 </table>
 
-# CERTIFICATE
 <table style="width:30%">
-<tr>
+  <tr>
+CERTIFICATE
+
 <th>KAGGLE || <i>Accomplished: November 09, 2023</i>
 https://drive.google.com/file/d/1aKVgpa_oRqj_aKGXZ4rvuYbCA9nwxPcm/view?usp=sharing</th>
 
