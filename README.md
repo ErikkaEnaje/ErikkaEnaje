@@ -1,5 +1,6 @@
-### Hi there 👋
+![Erikka Marielle Enaje](https://github.com/ErikkaEnaje/ErikkaEnaje/assets/142382057/8a26fa15-a176-49d9-bc01-b6d478011da1)
 
+Hola a todas!! I'm Erikka Marielle M. Enaje, Mariella for short, I am 21 years old, from the Shoe Capital of the Philippines, Marikina City. I'm working towards earning my Bachelor of Science in Computer Science at New Era University.
 <!--
 **ErikkaEnaje/ErikkaEnaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
