@@ -16,11 +16,11 @@
 ##### SY: 2021 - Present
 
 # CERTIFICATE
-<table style="width:100%">
+<table style="width:80%">
 <tr>
 
 <th>KAGGLE
- Accomplished: November 09, 2023
+Accomplished: November 09, 2023
 https://drive.google.com/file/d/1aKVgpa_oRqj_aKGXZ4rvuYbCA9nwxPcm/view?usp=sharing</th>
 
 <th>### DATA ANALYTICS ESSENTIALS
