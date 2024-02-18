@@ -19,9 +19,9 @@
 <table style="width:100%">
 <tr>
 
-<th>### KAGGLE
-##### Accomplished: November 09, 2023
-##### https://drive.google.com/file/d/1aKVgpa_oRqj_aKGXZ4rvuYbCA9nwxPcm/view?usp=sharing</th>
+<th>KAGGLE
+ Accomplished: November 09, 2023
+https://drive.google.com/file/d/1aKVgpa_oRqj_aKGXZ4rvuYbCA9nwxPcm/view?usp=sharing</th>
 
 <th>### DATA ANALYTICS ESSENTIALS
 ##### Accomplished: October 12, 2023
