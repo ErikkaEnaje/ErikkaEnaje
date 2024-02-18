@@ -13,17 +13,15 @@
 
 <table style="width:30%">
 <tr>
-<th>EDUCATION BACKGROUND</th>
-
+EDUCATION BACKGROUND
 <th>Bachelor of Science in Computer Science 
 SY: 2021 - Present</th>
 </tr>
 </table>
 
 <table style="width:30%">
-  <tr>
+<tr>
 CERTIFICATE
-
 <th>KAGGLE || <i>Accomplished: November 09, 2023</i>
 https://drive.google.com/file/d/1aKVgpa_oRqj_aKGXZ4rvuYbCA9nwxPcm/view?usp=sharing</th>
 
@@ -53,5 +51,5 @@ https://drive.google.com/file/d/1mpaxVzkyAO5BBXOoGgLi_XgtdCeuzRJz/view?usp=shari
 </tr>
 </table>
 
-# TO GET MORE ABOUT ME THIS MY WEBSITE
-##### https://erikkaenaje9.wixsite.com/my-site-1
+<p align="center">TO GET MORE ABOUT ME THIS MY WEBSITE
+ https://erikkaenaje9.wixsite.com/my-site-1</p>
