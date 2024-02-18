@@ -1,4 +1,5 @@
-![Uploading modern green coming soon (Banner (Landscape)).jpg…]()
+
+![modern green coming soon (Banner (Landscape))](https://github.com/ErikkaEnaje/ErikkaEnaje/assets/142382057/7b0cd59e-7637-41d4-9378-d691f8621981)
 
 
 Hola a todas!! I'm Erikka Marielle M. Enaje, Mariella for short, I am 21 years old, from the Shoe Capital of the Philippines, Marikina City. I'm working towards earning my Bachelor of Science in Computer Science at New Era University.
