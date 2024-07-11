@@ -5,7 +5,7 @@
 <br>
 I'm Erikka Marielle Enaje, 22 years old, currently enrolled at New Era University pursuing a Bachelor of Science in Computer Science. <br><br>As Fourth year studying Computer Science in college, I've come to understand that every line of code I write today plays a crucial role in shaping the technology of tomorrow. It's not just about mastering programming languages; it's about recognizing how each piece of code contributes to building innovative solutions that can influence the future of web development and beyond. This quote reflects my dedication to enhancing my coding skills and making a meaningful impact in the tech industry through continuous learning and application.<br><br>Have a collaboration idea or a question? Feel free to contact me via email or phone. Let’s create some tech magic together!<br><br>
 
-# Education 🕮
+# Education ✮
 - Bachelor of Science in Computer Science<br>
 New Era University<br>
 2021 - Present
@@ -16,7 +16,7 @@ Asian College<br>
 
 <br><br>
 
-# Certification 🗞
+# Certification ᯓᡣ𐭩
 <h4 align=""><a href ="https://drive.google.com/file/d/1v0xdaoWnxrGUpzxQqydPtHXJxnfOZR88/view?usp=sharing">Introduction to Data Science</a><br> ⟡ Accomplished: June 29, 2024</h4>
 
 <h4 align=""><a href ="https://drive.google.com/file/d/1lcW9Fmyp-Ar80ez-59_OJ-Vg4ClRapSm/view?usp=sharing">Artificial Intelligence Fundamentals</a><br> ⟡ Accomplished: June 28, 2024</h4>
@@ -38,7 +38,7 @@ Asian College<br>
 
 <br><br>
 
-# Tech Achievement 📊
+# Tech Achievement ࣪ ִֶָ☾.
 ### PowerBI Projects
 ### ➺ [Prof Elec 4 Course Report](https://app.powerbi.com/view?r=eyJrIjoiZjhjNzRhZGUtMzMwYi00OTBjLTk1NGMtZDAwZGEzMmIzNTI2IiwidCI6IjE4YmE2ZDIxLTdhYmItNDIwNS1hMGQwLTQ4ZmVjNzQ0ZmZkNiIsImMiOjEwfQ%3D%3D)
 ### ➺ [Snack Food Sales Report](https://app.powerbi.com/view?r=eyJrIjoiZGU0ZTI0YTEtM2JiZi00MzA4LWI5YjEtZDg2YmQ0Nzc0NDg4IiwidCI6IjE4YmE2ZDIxLTdhYmItNDIwNS1hMGQwLTQ4ZmVjNzQ0ZmZkNiIsImMiOjEwfQ%3D%3D)
@@ -55,11 +55,11 @@ Asian College<br>
 
 <br>
 
-## Socials
+## Socials ࿐
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ekkmrllenje) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dulcexlatte/) 
 
-# Tech Stack
-### Data Visualization Tools
+# Tech Stack ☘︎
+###〰Data Visualization Tools 
 ![Power Bi](https://img.shields.io/badge/power_bi_desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau Public](https://img.shields.io/badge/Tableau_Public-blue?style=for-the-badge)
 
