@@ -40,19 +40,60 @@ Asian College<br>
 
 # Tech Achievement 📊
 ### PowerBI Projects
-### ⚪ [Course Report](https://app.powerbi.com/view?r=eyJrIjoiZjhjNzRhZGUtMzMwYi00OTBjLTk1NGMtZDAwZGEzMmIzNTI2IiwidCI6IjE4YmE2ZDIxLTdhYmItNDIwNS1hMGQwLTQ4ZmVjNzQ0ZmZkNiIsImMiOjEwfQ%3D%3D)
-### ⚪ [Snack Food Sales Report](https://app.powerbi.com/view?r=eyJrIjoiZGU0ZTI0YTEtM2JiZi00MzA4LWI5YjEtZDg2YmQ0Nzc0NDg4IiwidCI6IjE4YmE2ZDIxLTdhYmItNDIwNS1hMGQwLTQ4ZmVjNzQ0ZmZkNiIsImMiOjEwfQ%3D%3D)
-### ⚪ [Soda Report For Year 2022](https://app.powerbi.com/view?r=eyJrIjoiMTZhNGQ1ZmEtNjU4NC00ZjEyLThiZWUtNzFkM2QyOTUyYzYwIiwidCI6IjE4YmE2ZDIxLTdhYmItNDIwNS1hMGQwLTQ4ZmVjNzQ0ZmZkNiIsImMiOjEwfQ%3D%3D)
+### ➺ [Prof Elec 4 Course Report](https://app.powerbi.com/view?r=eyJrIjoiZjhjNzRhZGUtMzMwYi00OTBjLTk1NGMtZDAwZGEzMmIzNTI2IiwidCI6IjE4YmE2ZDIxLTdhYmItNDIwNS1hMGQwLTQ4ZmVjNzQ0ZmZkNiIsImMiOjEwfQ%3D%3D)
+### ➺ [Snack Food Sales Report](https://app.powerbi.com/view?r=eyJrIjoiZGU0ZTI0YTEtM2JiZi00MzA4LWI5YjEtZDg2YmQ0Nzc0NDg4IiwidCI6IjE4YmE2ZDIxLTdhYmItNDIwNS1hMGQwLTQ4ZmVjNzQ0ZmZkNiIsImMiOjEwfQ%3D%3D)
+### ➺ [Soda Report For Year 2022](https://app.powerbi.com/view?r=eyJrIjoiMTZhNGQ1ZmEtNjU4NC00ZjEyLThiZWUtNzFkM2QyOTUyYzYwIiwidCI6IjE4YmE2ZDIxLTdhYmItNDIwNS1hMGQwLTQ4ZmVjNzQ0ZmZkNiIsImMiOjEwfQ%3D%3D)
 
+<br>
 
+### Software Engineering Design Patterns ⌨
+### ⤷ [Adapter Pattern](https://github.com/ErikkaEnaje/adapterPattern.git)
+### ⤷ [Command Pattern](https://github.com/ErikkaEnaje/commandPattern.git)
+### ⤷ [Strategy Pattern](https://github.com/ErikkaEnaje/StrategyPattern.git)
+### ⤷ [SolidWithDesignPattern](https://github.com/ErikkaEnaje/SolidWithDesignPattern.git)
+### ⤷ [Visitor Pattern](https://github.com/ErikkaEnaje/VisitorPattern2.git)
 
+<br>
 
-
-## 🌐 Socials:
+## Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ekkmrllenje) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dulcexlatte/) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+# Tech Stack
+### Data Visualization Tools
+![Power Bi](https://img.shields.io/badge/power_bi_desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau Public](https://img.shields.io/badge/Tableau_Public-blue?style=for-the-badge)
+
+
+### Programming Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23363534?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
+![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logoColor=%23000000)
+![PHP](https://img.shields.io/badge/PHP-%2348568a?style=for-the-badge&logoColor=%23000000)
+
+### DBMS
+![IBM DB2](https://img.shields.io/badge/IBM_DB2-Green?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Dev Tools
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-%233d3c3b?style=for-the-badge)
+![Eclipse](https://img.shields.io/badge/Eclipse-%232b5669?style=for-the-badge)
+![Lucid Chart](https://img.shields.io/badge/Lucid_Chart-%23ad632a?style=for-the-badge)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Creative
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
+![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+
+<br><br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ErikkaEnaje&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ErikkaEnaje&theme=dark&hide_border=false)<br/>
