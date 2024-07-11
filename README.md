@@ -17,11 +17,11 @@ Asian College<br>
 <br><br>
 
 # Certification
-<h3 align=""><a href ="https://www.credly.com/badges/11937909-7799-4815-9e3c-99c45822d3bc">Artificial Intelligence Fundamentals</a><br>Accomplished: June 28, 2024</h3>
+<h3 align=""><a href ="https://drive.google.com/file/d/1v0xdaoWnxrGUpzxQqydPtHXJxnfOZR88/view?usp=sharing">Introduction to Data Science</a><br>Accomplished: June 29, 2024</h3>
 
-<h3 align=""><a href ="https://www.credly.com/badges/11937909-7799-4815-9e3c-99c45822d3bc">Introduction to Data Science</a><br>Accomplished: June 28, 2024</h3>
+<h3 align=""><a href ="https://drive.google.com/file/d/1lcW9Fmyp-Ar80ez-59_OJ-Vg4ClRapSm/view?usp=sharing">Artificial Intelligence Fundamentals</a><br>Accomplished: June 28, 2024</h3>
 
-<h3 align=""><a href ="https://www.credly.com/badges/11937909-7799-4815-9e3c-99c45822d3bc">Data Analytics Essentials</a><br>Accomplished: October 07, 2023</h3>
+<h3 align=""><a href ="https://drive.google.com/file/d/1-nNhEQhQqFIE9kwAZ0U_wAfNQRjSaRwE/view?usp=sharing">Data Analytics Essentials</a><br>Accomplished: October 07, 2023</h3>
 
 <h3 align=""><a href ="https://drive.google.com/file/d/1DP6kDOVRapIoeNfnk4SMFVBYtKcH6_h_/view?usp=sharing">Business Analytics with Excel</a><br>Accomplished: September 07, 2023</h3>
 
