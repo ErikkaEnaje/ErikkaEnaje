@@ -1,11 +1,11 @@
-<h1 align = "center"> ₊✩‧₊˚౨ৎ˚ Erikka Marielle Enaje ˚౨ৎ˚₊✩‧₊ </h1>
+<h1 align = "center"> ˚౨ৎ˚ Erikka Marielle Enaje ˚౨ৎ˚ </h1>
 <br>
                                       ✉️ Email: erikkmrllenje@gmail.com<br>
                                       📱 Contact Number: +63 968 720 3865<br>
 <br>
 I'm Erikka Marielle Enaje, 22 years old, currently enrolled at New Era University pursuing a Bachelor of Science in Computer Science. <br><br>As Fourth year studying Computer Science in college, I've come to understand that every line of code I write today plays a crucial role in shaping the technology of tomorrow. It's not just about mastering programming languages; it's about recognizing how each piece of code contributes to building innovative solutions that can influence the future of web development and beyond. This quote reflects my dedication to enhancing my coding skills and making a meaningful impact in the tech industry through continuous learning and application.<br><br>Have a collaboration idea or a question? Feel free to contact me via email or phone. Let’s create some tech magic together!<br><br>
 
-# Education:
+# Education
 ## Accountancy, Business and Management (SHS)<br>
 Asian College<br>
 - 2019 - 2021
@@ -13,6 +13,18 @@ Asian College<br>
 ## Bachelor of Science in Computer Science<br>
 New Era University<br>
 - 2021 - Present
+
+<br><br>
+
+# Certification
+
+
+
+
+
+
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ekkmrllenje) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dulcexlatte/) 
