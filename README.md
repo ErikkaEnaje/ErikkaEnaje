@@ -38,11 +38,11 @@ Asian College<br>
 
 <br><br>
 
-# Tech Achievement 🏷
+# Tech Achievement 📊
 ### PowerBI Projects
-### ⚪ [Snack Food Sales Report](https://app.powerbi.com/view?r=eyJrIjoiNTI5MzI4NWUtNWJhNi00Mjc5LTlhOTYtZDFiZWNlODQwMGE3IiwidCI6IjMyYmFmZWQ1LTIyNjgtNDAzNS05YzA3LTI3OWFkOTAwYTRiYSIsImMiOjEwfQ%3D%3D)
-### ⚪ [Soda Report for Year 2022](https://app.powerbi.com/view?r=eyJrIjoiNWYxOTc4NGUtZDQzMS00OTkyLTlkZDUtNGRjMWY3YzZlNGFmIiwidCI6IjMyYmFmZWQ1LTIyNjgtNDAzNS05YzA3LTI3OWFkOTAwYTRiYSIsImMiOjEwfQ%3D%3D)
-### ⚪ [Sales Fact](https://app.powerbi.com/view?r=eyJrIjoiNTY0Y2RlZmQtNTA0My00YWM0LWIwZmEtZmVmNDA2ZThjYzIwIiwidCI6IjMyYmFmZWQ1LTIyNjgtNDAzNS05YzA3LTI3OWFkOTAwYTRiYSIsImMiOjEwfQ%3D%3D)
+### ⚪ [Course Report](https://app.powerbi.com/view?r=eyJrIjoiZjhjNzRhZGUtMzMwYi00OTBjLTk1NGMtZDAwZGEzMmIzNTI2IiwidCI6IjE4YmE2ZDIxLTdhYmItNDIwNS1hMGQwLTQ4ZmVjNzQ0ZmZkNiIsImMiOjEwfQ%3D%3D)
+### ⚪ [Snack Food Sales Report](https://app.powerbi.com/view?r=eyJrIjoiZGU0ZTI0YTEtM2JiZi00MzA4LWI5YjEtZDg2YmQ0Nzc0NDg4IiwidCI6IjE4YmE2ZDIxLTdhYmItNDIwNS1hMGQwLTQ4ZmVjNzQ0ZmZkNiIsImMiOjEwfQ%3D%3D)
+### ⚪ [Soda Report For Year 2022](https://app.powerbi.com/view?r=eyJrIjoiMTZhNGQ1ZmEtNjU4NC00ZjEyLThiZWUtNzFkM2QyOTUyYzYwIiwidCI6IjE4YmE2ZDIxLTdhYmItNDIwNS1hMGQwLTQ4ZmVjNzQ0ZmZkNiIsImMiOjEwfQ%3D%3D)
 
 
 
