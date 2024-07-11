@@ -1,7 +1,7 @@
 <h1 align = "center"> ˚౨ৎ˚ Erikka Marielle Enaje ˚౨ৎ˚ </h1>
 
 <p align="center">
-  <img width="460" height="300" src="(https://github.com/user-attachments/assets/a36e7efb-2e9e-4579-b415-08f053f4aae6)">
+ ![resized-image-Promo](https://github.com/user-attachments/assets/d937c309-abdd-4822-9bf0-9ac59610f397)
 </p>
 
 <br><br>
