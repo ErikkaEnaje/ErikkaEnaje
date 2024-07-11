@@ -16,7 +16,7 @@ Asian College<br>
 
 <br><br>
 
-# Certification 🎖
+# Certification 🗞
 <h4 align=""><a href ="https://drive.google.com/file/d/1v0xdaoWnxrGUpzxQqydPtHXJxnfOZR88/view?usp=sharing">Introduction to Data Science</a><br> ⟡ Accomplished: June 29, 2024</h4>
 
 <h4 align=""><a href ="https://drive.google.com/file/d/1lcW9Fmyp-Ar80ez-59_OJ-Vg4ClRapSm/view?usp=sharing">Artificial Intelligence Fundamentals</a><br> ⟡ Accomplished: June 28, 2024</h4>
