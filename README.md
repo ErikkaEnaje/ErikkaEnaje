@@ -17,7 +17,19 @@ Asian College<br>
 <br><br>
 
 # Certification
+<h3 align=""><a href ="https://www.credly.com/badges/11937909-7799-4815-9e3c-99c45822d3bc">Artificial Intelligence Fundamentals</a><br>June 28, 2024</h3>
 
+<h3 align=""><a href ="https://www.credly.com/badges/11937909-7799-4815-9e3c-99c45822d3bc">Introduction to Data Science</a><br>June 28, 2024</h3>
+
+<h3 align=""><a href ="https://www.credly.com/badges/11937909-7799-4815-9e3c-99c45822d3bc">Data Analytics Essentials</a><br>October 07, 2023</h3>
+
+<h3 align=""><a href ="[https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI2NjQiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl80NDk5MTAyXzE2OTQwOTQ4MDEucG5nIiwidXNlcm5hbWUiOiJIYW5uYWggTC4gQ29uZGFkYSJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F2738%2FBusiness-Analytics-with-Excel%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1228332817757569017&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVzzIuq0g2LQlPckkCAKJwF%2F4lAAAA](https://drive.google.com/file/d/1DP6kDOVRapIoeNfnk4SMFVBYtKcH6_h_/view?usp=sharing)">Business Analytics with Excel</a><br>September 07, 2023</h3>
+
+<h3 align=""><a href ="https://catalog-education.oracle.com/pls/certview/sharebadge?id=6910FE01F34A2373BD3EC574722DBBF6428C364A543828653AAAA6C2E106BE7C">Oracle Cloud Data Management 2022 Foundations Certified Associate</a><br>November 30, 2022</h3>
+
+<h3 align=""><a href ="https://catalog-education.oracle.com/pls/certview/sharebadge?id=886D7EE48D3F57B44726CF3E5840BA7DBA0966D9778E4C6E35B0579CD0C1F3C5">Oracle Cloud Infrastructure 2022 Certified Foundations Associate</a><br>November 22, 2022</h3>
+
+<h3 align=""><a href ="https://courses.cognitiveclass.ai/certificates/c9384ce017094b8589171b649386dadb">SQL and Relational Databases 101</a><br>November 03, 2022</h3>
 
 
 
