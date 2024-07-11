@@ -17,21 +17,26 @@ Asian College<br>
 <br><br>
 
 # Certification
-<h3 align=""><a href ="https://www.credly.com/badges/11937909-7799-4815-9e3c-99c45822d3bc">Artificial Intelligence Fundamentals</a><br>June 28, 2024</h3>
+<h3 align=""><a href ="https://www.credly.com/badges/11937909-7799-4815-9e3c-99c45822d3bc">Artificial Intelligence Fundamentals</a><br>Accomplished: June 28, 2024</h3>
 
-<h3 align=""><a href ="https://www.credly.com/badges/11937909-7799-4815-9e3c-99c45822d3bc">Introduction to Data Science</a><br>June 28, 2024</h3>
+<h3 align=""><a href ="https://www.credly.com/badges/11937909-7799-4815-9e3c-99c45822d3bc">Introduction to Data Science</a><br>Accomplished: June 28, 2024</h3>
 
-<h3 align=""><a href ="https://www.credly.com/badges/11937909-7799-4815-9e3c-99c45822d3bc">Data Analytics Essentials</a><br>October 07, 2023</h3>
+<h3 align=""><a href ="https://www.credly.com/badges/11937909-7799-4815-9e3c-99c45822d3bc">Data Analytics Essentials</a><br>Accomplished: October 07, 2023</h3>
 
-<h3 align=""><a href ="https://drive.google.com/file/d/1DP6kDOVRapIoeNfnk4SMFVBYtKcH6_h_/view?usp=sharing">Business Analytics with Excel</a><br>September 07, 2023</h3>
+<h3 align=""><a href ="https://drive.google.com/file/d/1DP6kDOVRapIoeNfnk4SMFVBYtKcH6_h_/view?usp=sharing">Business Analytics with Excel</a><br>Accomplished: September 07, 2023</h3>
 
-<h3 align=""><a href ="https://catalog-education.oracle.com/pls/certview/sharebadge?id=6910FE01F34A2373BD3EC574722DBBF6428C364A543828653AAAA6C2E106BE7C">Oracle Cloud Data Management 2022 Foundations Certified Associate</a><br>November 30, 2022</h3>
+<h3 align=""><a href ="https://catalog-education.oracle.com/pls/certview/sharebadge?id=6910FE01F34A2373BD3EC574722DBBF6428C364A543828653AAAA6C2E106BE7C">Oracle Cloud Data Management 2022 Foundations Certified Associate</a><br>Accomplished: November 30, 2022</h3>
 
-<h3 align=""><a href ="https://catalog-education.oracle.com/pls/certview/sharebadge?id=886D7EE48D3F57B44726CF3E5840BA7DBA0966D9778E4C6E35B0579CD0C1F3C5">Oracle Cloud Infrastructure 2022 Certified Foundations Associate</a><br>November 22, 2022</h3>
+<h3 align=""><a href ="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8462A913D7A61E9CD1B1C87FCDE7D32270B692DE45747DE7AEF341051EB2235C&fbclid=IwAR32v9mkOHvDqjosZ-bqBviIH8TBWsMfGGQR9lv_ift7sxYM5Y2aDs0En7A">Oracle Cloud Infrastructure 2022 Certified Foundations Associate</a><br>Accomplished: November 17, 2022</h3>
 
-<h3 align=""><a href ="https://courses.cognitiveclass.ai/certificates/c9384ce017094b8589171b649386dadb">SQL and Relational Databases 101</a><br>November 03, 2022</h3>
+<h3 align=""><a href ="https://drive.google.com/file/d/1AqjIB1iU7_W1Hfqzmh0ctvFdL0gOM-cF/view?usp=sharing">Oracle Cloud Infrastructure 2022 Certified Foundations Associate</a><br>Accomplished: November 25, 2022</h3>
 
 
+<h3 align=""><a href ="https://drive.google.com/file/d/19R_CmhkfzAzgS6iH29LEje7K85uX9rTZ/view?usp=sharing">SQL and Relational Databases 101</a><br>Accomplished: October 29, 2022</h3>
+
+<h3 align=""><a href ="https://drive.google.com/file/d/1mpaxVzkyAO5BBXOoGgLi_XgtdCeuzRJz/view?usp=sharing">SPEECH ARTS CONTEST 2022 Prelimanary Rounds: Manuscript Speech</a><br>Accomplished: Febuary 28 2022</h3>
+
+<br><br>
 
 
 
