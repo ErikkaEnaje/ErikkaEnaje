@@ -59,12 +59,12 @@ Asian College<br>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ekkmrllenje) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dulcexlatte/) 
 
 # Tech Stack ☘︎
-###〰Data Visualization Tools 
+### Data Visualization Tools ›
 ![Power Bi](https://img.shields.io/badge/power_bi_desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau Public](https://img.shields.io/badge/Tableau_Public-blue?style=for-the-badge)
 
 
-### Programming Languages
+### Programming Languages ›
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23363534?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
@@ -72,12 +72,12 @@ Asian College<br>
 ![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logoColor=%23000000)
 ![PHP](https://img.shields.io/badge/PHP-%2348568a?style=for-the-badge&logoColor=%23000000)
 
-### DBMS
+### DBMS ›
 ![IBM DB2](https://img.shields.io/badge/IBM_DB2-Green?style=for-the-badge)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Dev Tools
+### Dev Tools ›
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-%233d3c3b?style=for-the-badge)
 ![Eclipse](https://img.shields.io/badge/Eclipse-%232b5669?style=for-the-badge)
