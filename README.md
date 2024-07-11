@@ -5,7 +5,7 @@
 <br>
 I'm Erikka Marielle Enaje, 22 years old, currently enrolled at New Era University pursuing a Bachelor of Science in Computer Science. <br><br>As Fourth year studying Computer Science in college, I've come to understand that every line of code I write today plays a crucial role in shaping the technology of tomorrow. It's not just about mastering programming languages; it's about recognizing how each piece of code contributes to building innovative solutions that can influence the future of web development and beyond. This quote reflects my dedication to enhancing my coding skills and making a meaningful impact in the tech industry through continuous learning and application.<br><br>Have a collaboration idea or a question? Feel free to contact me via email or phone. Let’s create some tech magic together!<br><br>
 
-# Education
+# Education 🕮
 - Bachelor of Science in Computer Science<br>
 New Era University<br>
 2021 - Present
@@ -16,7 +16,7 @@ Asian College<br>
 
 <br><br>
 
-# Certification
+# Certification 🎖
 <h4 align=""><a href ="https://drive.google.com/file/d/1v0xdaoWnxrGUpzxQqydPtHXJxnfOZR88/view?usp=sharing">Introduction to Data Science</a><br> ⟡ Accomplished: June 29, 2024</h4>
 
 <h4 align=""><a href ="https://drive.google.com/file/d/1lcW9Fmyp-Ar80ez-59_OJ-Vg4ClRapSm/view?usp=sharing">Artificial Intelligence Fundamentals</a><br> ⟡ Accomplished: June 28, 2024</h4>
@@ -32,12 +32,17 @@ Asian College<br>
 <h4 align=""><a href ="https://drive.google.com/file/d/1AqjIB1iU7_W1Hfqzmh0ctvFdL0gOM-cF/view?usp=sharing">Oracle Cloud Infrastructure 2022 Certified Foundations Associate</a><br> ⟡ Accomplished: November 25, 2022</h4>
 
 
-<h3 align=""><a href ="https://drive.google.com/file/d/19R_CmhkfzAzgS6iH29LEje7K85uX9rTZ/view?usp=sharing">SQL and Relational Databases 101</a><br> ⟡ Accomplished: October 29, 2022</h3>
+<h4 align=""><a href ="https://drive.google.com/file/d/19R_CmhkfzAzgS6iH29LEje7K85uX9rTZ/view?usp=sharing">SQL and Relational Databases 101</a><br> ⟡ Accomplished: October 29, 2022</h4>
 
-<h3 align=""><a href ="https://drive.google.com/file/d/1mpaxVzkyAO5BBXOoGgLi_XgtdCeuzRJz/view?usp=sharing">SPEECH ARTS CONTEST 2022 Prelimanary Rounds: Manuscript Speech</a><br> ⟡ Accomplished: Febuary 28 2022</h3>
+<h4 align=""><a href ="https://drive.google.com/file/d/1mpaxVzkyAO5BBXOoGgLi_XgtdCeuzRJz/view?usp=sharing">SPEECH ARTS CONTEST 2022 Prelimanary Rounds: Manuscript Speech</a><br> ⟡ Accomplished: Febuary 28 2022</h4>
 
 <br><br>
 
+# Tech Achievement 🏷
+### PowerBI Projects
+### ⚪ [Snack Food Sales Report](https://app.powerbi.com/view?r=eyJrIjoiNTI5MzI4NWUtNWJhNi00Mjc5LTlhOTYtZDFiZWNlODQwMGE3IiwidCI6IjMyYmFmZWQ1LTIyNjgtNDAzNS05YzA3LTI3OWFkOTAwYTRiYSIsImMiOjEwfQ%3D%3D)
+### ⚪ [Soda Report for Year 2022](https://app.powerbi.com/view?r=eyJrIjoiNWYxOTc4NGUtZDQzMS00OTkyLTlkZDUtNGRjMWY3YzZlNGFmIiwidCI6IjMyYmFmZWQ1LTIyNjgtNDAzNS05YzA3LTI3OWFkOTAwYTRiYSIsImMiOjEwfQ%3D%3D)
+### ⚪ [Sales Fact](https://app.powerbi.com/view?r=eyJrIjoiNTY0Y2RlZmQtNTA0My00YWM0LWIwZmEtZmVmNDA2ZThjYzIwIiwidCI6IjMyYmFmZWQ1LTIyNjgtNDAzNS05YzA3LTI3OWFkOTAwYTRiYSIsImMiOjEwfQ%3D%3D)
 
 
 
