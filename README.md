@@ -46,7 +46,7 @@ Asian College<br>
 
 <br>
 
-### Software Engineering Design Patterns ⌨
+### Software Engineering Design Patterns 
 ### ⤷ [Adapter Pattern](https://github.com/ErikkaEnaje/adapterPattern.git)
 ### ⤷ [Command Pattern](https://github.com/ErikkaEnaje/commandPattern.git)
 ### ⤷ [Strategy Pattern](https://github.com/ErikkaEnaje/StrategyPattern.git)
