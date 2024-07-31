@@ -8,7 +8,7 @@
 
 <br><br>
 
-📩 Email: erikkmrllenje@gmail.com<br>
+📩 Email: erikkamariellee@gmail.com<br>
 📞 Contact Number: +63 968 720 3865<br>
 
 # About Me ৎ ˚
