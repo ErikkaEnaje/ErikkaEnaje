@@ -20,7 +20,7 @@ New Era University<br>
 2021 - Present
 
 - Accountancy, Business and Management (SHS)<br>
-Asian College<br>
+Asian College of Science and Technology<br>
 2019 - 2021
 
 <br><br>
